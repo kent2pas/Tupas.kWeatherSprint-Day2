@@ -1,0 +1,139 @@
+.backgroundcolor{
+    background-color: rgb(182, 216, 228);
+}
+
+.navbar-custom{
+    background-color: #3E007B;
+    
+} 
+
+.navbar-brand{
+    color: white;
+}
+
+.inputBox{
+    border-radius: 10px;
+    border-color: gray;
+}
+
+
+.searchBtn{
+    background-color:#3E007B;
+    border-radius: 10px;
+    width: 5%;
+    height: 90%;
+    margin: 3px;
+}
+
+.informationcolumn{
+    background-color: #AADBFF;
+    border-radius: 50px;
+}
+
+.weathercolumn{
+    background-color: #8FD0FF;
+    border-radius: 50px;
+}
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 700px;
+  }
+  
+ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+.weatherinformation1{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    color: white;
+    font-size: 40px;
+}
+.weatherinformation2{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    color: white;
+    font-size: 100px;
+}
+.weatherinformation3{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    color: white;
+    font-size: 40px;
+}
+.weatherinformation4{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    color: white;
+    font-size: 40px;
+}
+
+.weatherpicture{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+  
+}
+
+.favoriteBtn{
+    margin: 0;
+    margin-right: 70%;
+    background-color:#3E007B;
+}
+
+.column2 {
+    float: left;
+    width: 33.33%;
+  }
+  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+  .timeline{
+    background-color: #C8E8FF;
+    border-radius: 50px;
+  }
+
+  .timelineinformation{
+   
+  }
+
+  .timelinepicture{
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+
+
+
+
+
+
