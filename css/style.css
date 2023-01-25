@@ -91,7 +91,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20%;
+    margin-top: 30%;
   
 }
 
@@ -113,8 +113,12 @@
     border-radius: 50px;
 }
 
-.timelineinformation{
-    
+.timelineinformations{
+    font-size: 36px;
+}
+
+.timelinedegree{
+    font-size: 63px;
 }
 
 .timelinepicture{
@@ -132,10 +136,18 @@
 
 .timeline2{
     background-color: #C8E8FF;
+    height: 60px;
+    border-radius: 50px;
 }
 
 .changetext{
-    font-size: 11px;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    font-weight: 500;
 }
   
 
