@@ -4,16 +4,27 @@
 
 .navbar-custom{
     background-color: #3E007B;
-    
+   
 } 
 
 .navbar-brand{
     color: white;
+    margin: 0 93%;
 }
 
 .inputBox{
     border-radius: 10px;
     border-color: gray;
+}
+
+input[type=search]{
+    background: #ededed url(https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 9px center;
+    border: solid 1px #ccc;
+	padding: 9px 10px 9px 32px;
+}
+
+input{
+    text-align: center;
 }
 
 
@@ -86,7 +97,7 @@
     font-size: 40px;
 }
 
-.weatherpicture{
+.icon{
     margin: auto;
     display: block;
     margin-left: auto;
@@ -99,6 +110,10 @@
     margin: 0;
     margin-right: 70%;
     background-color:#3E007B;
+}
+
+.favoriteBtn::before{
+    content:"⭐";
 }
 
 
@@ -141,7 +156,7 @@
 }
 
 .changetext{
-    font-size: 15px;
+    font-size: 15.5px;
     margin: auto;
     display: block;
     margin-left: auto;
@@ -151,6 +166,8 @@
 }
   
 
+  
+ 
 
 
 
